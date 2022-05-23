@@ -6,10 +6,8 @@ target 'DeliveryService' do
   use_frameworks!
 
   pod 'Alamofire'
-  pod 'Firebase/Auth'
   pod 'Firebase/Core'
   pod 'Firebase/Database'
-  pod 'Firebase/Firestore'
 
   # Pods for DeliveryService
 
